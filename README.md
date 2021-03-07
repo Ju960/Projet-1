@@ -1,3 +1,3 @@
 # Projet-1
 
-regarder le code base
+regarder le TD1
